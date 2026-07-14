@@ -1,6 +1,6 @@
 # semana-01
-# Diagnostico IS1 — William Salvador Ramirez Lacán 
-Fecha: 13/07/2026  |  Equipo: NOT FOUND HUMAN
+# Diagnostico IS1  —  William Salvador Ramirez Lacán 
+Fecha: 13/07/2026  |  Equipo:  NOT FOUND HUMAN
 
 ## 1. Mis 3 fortalezas segun la IA
 
